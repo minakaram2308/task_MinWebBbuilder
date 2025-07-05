@@ -58,9 +58,7 @@ export const Preview = () => {
             <div className="space-y-4">
               {sections.map((section) => (
                 <SortableSection key={section.id} id={section.id}>
-                  <div className="border rounded-xl p-4 bg-gray-50 shadow-sm transition hover:shadow relative">
                     <SectionRenderer id={section.id} />
-                  </div>
                 </SortableSection>
               ))}
             </div>

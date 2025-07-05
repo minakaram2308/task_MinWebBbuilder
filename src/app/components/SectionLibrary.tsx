@@ -25,7 +25,7 @@ export const SectionLibrary = () => {
           </button>
         ))}
         
-        <div className="border-t pt-2 mt-4">
+        <div className="pt-2 mt-2">
                <button
            onClick={() => addSection({ title: '', description: '', image: '' })}
         className="relative w-full overflow-hidden rounded-xl bg-purple-600 px-6 py-3 text-white font-semibold
