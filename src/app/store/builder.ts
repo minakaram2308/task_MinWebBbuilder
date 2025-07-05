@@ -93,8 +93,6 @@ export const useBuilderStore = create<BuilderState>((set, get) => ({
         } else {
           toast.error("❌ Invalid data format");
         }
-      } else {
-        toast.error("❌ No saved data found");
       }
     } catch (error) {
       console.error("Load error:", error);
