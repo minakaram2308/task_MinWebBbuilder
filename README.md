@@ -100,7 +100,7 @@ Use the **Import JSON** button to load a previously saved file.
 
 Check out the live demo of the Mini Website Builder:
 
-**🌐 [Live Demo](https://mini-website-builder-demo.vercel.app)**
+**🌐 [Live Demo](https://miniwebbuilder-rekaz.netlify.app)**
 
 Try the app online and experience all the features without any setup required!
 
